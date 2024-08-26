@@ -74,4 +74,5 @@ enhance the visual aesthetics of the application and ensure a clean interface.
 
 ## Author
 
-Abhishek Rajput.
+Arnav Jain.
+
